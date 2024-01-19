@@ -1,8 +1,6 @@
 # Flippy Bird Game Development
 ![Game Demom Image](https://github.com/ChiragVasaniP/Flippy_Bird/assets/142203311/49323609-599f-442f-bccf-a07c387a4b89)
 
-[Game DeMo.webm](https://github.com/ChiragVasaniP/Flippy_Bird/assets/142203311/49124eca-30bd-4fd1-b7b4-50ab7c7519a0)
-
 ## Overview
 
 This Android game project implements a simple Flappy Bird-like game using the Model-View-ViewModel (MVM) architecture with Kotlin and the Android framework. The game features a bird that can be controlled by the user's touch input, flying through pipes and avoiding collisions.
