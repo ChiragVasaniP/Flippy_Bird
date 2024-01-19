@@ -1,4 +1,7 @@
 # Flippy Bird Game Development
+![Game Demom Image](https://github.com/ChiragVasaniP/Flippy_Bird/assets/142203311/49323609-599f-442f-bccf-a07c387a4b89)
+
+[Game DeMo.webm](https://github.com/ChiragVasaniP/Flippy_Bird/assets/142203311/49124eca-30bd-4fd1-b7b4-50ab7c7519a0)
 
 ## Overview
 
@@ -23,6 +26,7 @@ This Kotlin class extends `ViewModel` and handles the game logic. Here are some 
 - **Pipes:** Manages the movement of pipes across the screen.
 - **Collision Detection:** Checks for collisions between the bird and pipes.
 - **Game Loop:** Uses coroutines for the main game loop.
+
 
 ### MainActivity.kt
 
